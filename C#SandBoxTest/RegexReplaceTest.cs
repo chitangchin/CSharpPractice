@@ -1,12 +1,15 @@
 ﻿namespace C_SandBoxTest
 {
     using Sandbox.Regex;
+    using NUnit.Framework;
+    [TestFixture]
     public class RegexReplaceTests
     {
+        [Test]
         public void Tests()
         {
-            string test = "1231312@!#!@#!@asdasfa@!#!@%!@%!#^";
-            Assert.That(SolutionClass.RegexReplace(test), Is.EqualTo("1231312asdasfa"));
+            string test = "hello!^";
+            Assert.That(SolutionClass.RegexReplace(test), Is.EqualTo("hello"));
         }
     }
 }

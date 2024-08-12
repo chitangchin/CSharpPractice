@@ -14,7 +14,7 @@ namespace Sandbox.Regex
             string pattern = "[^0-9a-zA-Z]+";
 
             //Create a replacement: replaces the entire match with the first captured subexpression.
-            string replacement = "$1";
+            string replacement = "";
 
             //Invoke replace method on regex class to remove all non alphanumeric characters
             return Regex.Replace(arg, pattern, replacement);
