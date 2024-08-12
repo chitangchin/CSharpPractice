@@ -3,12 +3,10 @@
 ### Personal Sandbox to practice implementation, fundamentals, and methods.
 
 #### Fundamentals
-
-- Test Driven Development
-- Unit Testing
+- [Unit Testing](https://github.com/chitangchin/CSharpPractice/tree/master/C%23SandBoxTest)
 
 #### Methods
-- Regex.Replace
-- str.Split() Is.EqualTo str.Split("")
+- [Regex.Replace](https://github.com/chitangchin/CSharpPractice/blob/master/C%23Sandbox/RegexReplace.cs)
+- [str.Split() Is.EqualTo str.Split(" ")](https://github.com/chitangchin/CSharpPractice/blob/master/C%23Sandbox/SplitMethod.cs)
 
 #### Implementation
