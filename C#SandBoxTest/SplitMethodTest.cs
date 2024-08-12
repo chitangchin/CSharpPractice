@@ -1,11 +1,9 @@
-﻿using Sandbox.SplitMethod;
-
+﻿
 namespace C_SandBoxTest
 {
-    [TestFixture]
+    using Sandbox.SplitMethod;
     public class SplitMethodTests
     {
-        [Test]
         public void Tests()
         {
             string test = "Hello Test 1 2";
