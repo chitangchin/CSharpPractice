@@ -1,3 +1,7 @@
 # Collection of Unit tests
 
-Important fundamental skill to create unit tests for each Unit created
+An important fundamental skill to create unit tests for each Unit created
+
+8/12/2024
+- [RegexReplace](https://github.com/chitangchin/CSharpPractice/blob/master/C%23SandBoxTest/RegexReplaceTest.cs)
+- [SplitMethod](https://github.com/chitangchin/CSharpPractice/blob/master/C%23SandBoxTest/SplitMethodTest.cs)
